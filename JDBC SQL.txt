@@ -1,4 +1,4 @@
-﻿CREATE DATABASE jdbc_demo
+﻿CREATE DATABASE jdbc_demo;
 USE jdbc_demo;
 -- Create the 'places' table --
 CREATE TABLE IF NOT EXISTS places (
